@@ -1,2 +1,2 @@
 # CPlusPlus-Primer-Plus
-Demo codes of C++ Primer Plus.
+Demo & Exercise codes of C++ Primer Plus.
